@@ -4,5 +4,4 @@ A simple yet powerful Streamlit web application that predicts whether a customer
 
 
 🚀 Live Demo
-
-🔗 Click here to try the app
+🔗 https://iucmtzyawm6ofs5tubc9vh.streamlit.app/
